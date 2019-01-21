@@ -6,8 +6,8 @@ public class Main {
 
     public static void main(String[] args) throws Exception {
         //The required tests.
-        KiloByte.printMegaBytesAndKiloBytes(4100);
-        KiloByte.printMegaBytesAndKiloBytes(2055);
-        KiloByte.printMegaBytesAndKiloBytes(3072);
+        MegabyteConverter.printMegaBytesAndKiloBytes(4100);
+        MegabyteConverter.printMegaBytesAndKiloBytes(2055);
+        MegabyteConverter.printMegaBytesAndKiloBytes(3072);
     }
 }
